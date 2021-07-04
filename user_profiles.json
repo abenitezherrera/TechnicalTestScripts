@@ -1,0 +1,25 @@
+{
+    "user_id": "f07ff66566",
+    "gender": "Undefined",
+    "username": "JuanitoPerez",
+    "registration_address": [
+        {
+            "type": "work",
+            "address": {
+                "address_line_1": "Benito Juarez #35",
+                "address_line_2": "colonia Arboledas",
+                "city": "Nuevo Toledo",
+                "state": "Toledo",
+                "postal_code": "76000",
+                "country": "Mexico",
+                "phone": ["4420000001","4420000000"],
+                "fax": [],
+                "email": ["example@domain.mx"]
+            },
+            "number": "1",
+            "description": ""
+        }
+      ],
+    "status": "",
+    "user_level": ""
+}

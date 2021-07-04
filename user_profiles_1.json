@@ -1,0 +1,25 @@
+{
+    "user_id": "f888888",
+    "gender": "Undefined",
+    "username": "RolandoMoreno",
+    "registration_address": [
+        {
+            "type": "work",
+            "address": {
+                "address_line_1": "Juan Juarez #77",
+                "address_line_2": "colonia Candiles",
+                "city": "Spain",
+                "state": "Toledo",
+                "postal_code": "76000",
+                "country": "Mexico",
+                "phone": ["4423300001","4420000550"],
+                "fax": [],
+                "email": ["example1@domain.mx"]
+            },
+            "number": "2",
+            "description": ""
+        }
+      ],
+    "status": "",
+    "user_level": ""
+}

@@ -1,3 +1,4 @@
+create database test;
 use test;
 create table users(
 user_id varchar(10) primary key not null,
